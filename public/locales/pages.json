@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "en": {
+      "Alle Umfragen sind geschlossen.": "All polls are closed.",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Final festlegen & schließen": "Set final & close",
+      "Finaler Termin: {0}": "Final date: {0}",
+      "Geschlossen": "Closed",
+      "Keine Umfrage in dieser Ansicht.": "No polls in this view.",
+      "Keine anstehenden Terminvorschläge in offenen Umfragen.": "No upcoming date proposals in open polls.",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge.": "No date proposals yet.",
+      "Noch keine Umfrage — starte mit deinem ersten Terminvorschlag.": "No polls yet — start with your first date proposal.",
+      "Nächste Terminvorschläge": "Upcoming date proposals",
+      "Offen": "Open",
+      "Offen: {0} — {1} warten auf Antworten.": "Open: {0} — {1} awaiting responses.",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "No final date",
+      "{0} Ja": "{0} Yes",
+      "{0} Vielleicht": "{0} Maybe"
+    }
+  },
+  "v": 1
+}
